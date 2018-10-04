@@ -1,1 +1,10 @@
 /* we'll add some basic style here */
+body {
+    font-family: Helvetica, sans-serif;
+    font-size: 1.5rem;
+    color: rgba(0, 0, 255, 1);
+}
+
+a {
+    color: red;
+}
